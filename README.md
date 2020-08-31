@@ -1,1 +1,1 @@
-# Thermodynamics
+# Modern thermodynamics
