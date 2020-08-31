@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 
 print('Exercise 1.5, chapter 1\n')
 #H2
-a = 0.244; #print('a = ' + str(a))
-b = 0.0266; #print('b = ' + str(b))
+a = 1.390; #print('a = ' + str(a))
+b = 0.0391; #print('b = ' + str(b))
 R = 0.08206; #print('R = ' + str(R))
 T = 300; #print('T = ' + str(T))
 V = 10; #print('V = ' + str(V))
